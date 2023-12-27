@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-19T17:49:44 IST" name="Default suite" finished-at="2023-12-19T17:50:39 IST" duration-ms="54857">
+    <groups>
+    </groups>
+    <test started-at="2023-12-19T17:49:44 IST" name="Default test" finished-at="2023-12-19T17:50:39 IST" duration-ms="54857">
+      <class name="com.test.Test_Demote_Major_Incident">
+        <test-method signature="test2()[pri:0, instance:com.test.Test_Demote_Major_Incident@7c6442c2]" started-at="2023-12-19T17:49:45 IST" name="test2" finished-at="2023-12-19T17:50:39 IST" duration-ms="54780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- com.test.Test_Demote_Major_Incident -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
